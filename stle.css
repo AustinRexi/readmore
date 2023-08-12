@@ -1,0 +1,9 @@
+.moretext {
+  display: none;
+}
+.read-more-button {
+  cursor: pointer;
+}
+.text.showmore .moretext {
+  display: inline;
+}
